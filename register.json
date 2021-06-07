@@ -1,0 +1,25 @@
+{
+  "dharun": "present",
+  "Kishore": "present",
+  "tamil": "absent",
+  "room": [
+    10,
+    20,
+    "test"
+  ],
+  "stu": {
+    "name": "tamil",
+    "class": "3rd_year",
+    "dept": "IT"
+  },
+  "arr_obj": [
+    {
+      "name": "tamil",
+      "roll_no": "42"
+    },
+    {
+      "name": "sathish",
+      "roll_no": "65"
+    }
+  ]
+}
